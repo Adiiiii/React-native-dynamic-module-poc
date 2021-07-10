@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DynamicModulesPoc</string>
+    <string name="title_dynamicfeature">secret feature</string>
 </resources>
